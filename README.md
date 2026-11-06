@@ -50,3 +50,7 @@ to `~/.claude/CLAUDE.md`:
 
 Keep how to run tests, fixtures, test data and module quirks in the project's
 `CLAUDE.md`. The skill reads them from there.
+
+## License
+
+[MIT](LICENSE)
